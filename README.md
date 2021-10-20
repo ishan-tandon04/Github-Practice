@@ -6,9 +6,9 @@
 5.  Merge
 6.  No, it is still behind the remote master
 7.  Yes it was delted, now only contains the main branch
-
-
-8.  commit 3056d2341b7b9716ceff5e1c6b7f1ac85b595275 (HEAD -> main, origin/main, origin/HEAD)
+8.
+```
+    commit 3056d2341b7b9716ceff5e1c6b7f1ac85b595275 (HEAD -> main, origin/main, origin/HEAD)
 |\  Merge: eeb4628 3e597d3
 | | Author: Kevin Lou <58053969+klou23@users.noreply.github.com>
 | | Date:   Wed Oct 20 13:59:57 2021 -0600
@@ -30,4 +30,4 @@
 | | | Date:   Wed Oct 20 13:53:33 2021 -0600
 | | | 
 | | |     Merge branch 'main' of https://github.com/ishan-tandon04/Github-Practi:
-
+```
