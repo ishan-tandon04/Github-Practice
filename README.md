@@ -5,3 +5,5 @@
 4.  Unless you force pull, it will not overwrite the commit
 5.  Merge
 6.  No, it is still behind the remote master
+7.  Yes it was delted, now only contains the main branch
+8.  
